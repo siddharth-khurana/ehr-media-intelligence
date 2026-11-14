@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Env and OS
+.env
+.DS_Store
+
+# Backend local data
+backend/storage/*
+!backend/storage/.gitkeep
+backend/data/raw/*
+!backend/data/raw/.gitkeep
+backend/data/bundles/*
+!backend/data/bundles/.gitkeep
+backend/test_ingestion.json
+
+# Frontend
+node_modules/
+dist/

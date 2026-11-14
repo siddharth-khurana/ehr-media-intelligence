@@ -1,1 +1,1 @@
-# ehr-media-intelligence
+# EHR Media Intelligence Platform

@@ -1,0 +1,62 @@
+[
+  {
+    "patient_id": "patient-005",
+    "name": "Sam Rivera",
+    "dob": "03/22/1992",
+    "gender": "M",
+    "mrn": "MRN005",
+    "record_id": "doc-005",
+    "record_date": "2025-06-12",
+    "resource_type": "DocumentReference",
+    "title": "Discharge Summary",
+    "text_content": "Patient admitted with abdominal pain. Discharged in stable condition."
+  },
+  {
+    "id": "patient-005",
+    "full_name": "Sam Rivera",
+    "date_of_birth": "1992-03-22",
+    "sex": "male",
+    "mrn": "MRN-005",
+    "record_id": "lab-005",
+    "record_date": "22/06/2025",
+    "resource_type": "DiagnosticReport",
+    "title": "Liver Function Test",
+    "text_content": "ALT 32 U/L, AST 28 U/L. Within normal limits."
+  },
+  {
+    "patient_id": "patient-006",
+    "full_name": "Morgan Blake",
+    "dob": "11-05-1980",
+    "gender": "F",
+    "mrn": "MRN006",
+    "record_id": "img-006",
+    "record_date": "2025-07-01",
+    "resource_type": "DocumentReference",
+    "title": "MRI Report",
+    "text_content": "Brain MRI shows no acute abnormality. Mild age-related changes noted."
+  },
+  {
+    "patient_id": "patient-007",
+    "name": "Chris Jordan",
+    "dob": "1978/09/14",
+    "gender": "Male",
+    "mrn": "MRN-007",
+    "record_id": "lab-007",
+    "record_date": "14-09-2025",
+    "resource_type": "DiagnosticReport",
+    "title": "Lipid Panel",
+    "text_content": "Total Cholesterol 198 mg/dL. LDL 110 mg/dL."
+  },
+  {
+    "patient_id": "patient-006",
+    "full_name": "Morgan Blake",
+    "dob": "1980-11-05",
+    "gender": "female",
+    "mrn": "MRN-006",
+    "record_id": "note-006",
+    "record_date": "2025-07-03",
+    "resource_type": "DocumentReference",
+    "title": "Progress Note",
+    "text_content": "Patient reports improved symptoms. Continue current medication."
+  }
+]
